@@ -30,5 +30,5 @@ For full details, please see the [project prompt](docs/prompt.md).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DentWiz-DB-Design.git
-   cd DentWiz-DB-Design
+   git clone https://github.com/alex-m-g/Dental_Clinic_Database_Design.git
+   cd Dental_Clinic_Database_Design
