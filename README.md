@@ -19,7 +19,9 @@ This project was designed based on the following requirements:
 
 For full details, please see the [project prompt](docs/prompt.md).
 
-## How to Use
+## Design Preview
+![github](https://github.com/user-attachments/assets/258cde6e-0c27-4a3c-8b08-2a1c82011375)
+
 
 ### Prerequisites
 
